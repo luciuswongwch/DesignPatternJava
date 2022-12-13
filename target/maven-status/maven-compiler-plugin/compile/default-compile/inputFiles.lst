@@ -1,4 +1,28 @@
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\UserPersistenceService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\LoginService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\controller\UserController.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\entity\User.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\singleresponsibility\UserValidator.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\interfacesegregation\entity\Order.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\openclosed\CallHistory.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\interfacesegregation\entity\User.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\liskovsubstitution\Rectangle.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\liskovsubstitution\Shape.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\singleresponsibility\UserPersistenceService.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\liskovsubstitution\Main.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\dependencyinversion\JSONFormatter.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\dependencyinversion\Message.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\singleresponsibility\Main.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\interfacesegregation\service\PersistenceService.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\liskovsubstitution\Square.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\openclosed\PhoneSubscriber.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\interfacesegregation\entity\Entity.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\dependencyinversion\TextFormatter.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\dependencyinversion\FormatException.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\singleresponsibility\UserController.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\dependencyinversion\Main.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\dependencyinversion\Formatter.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\openclosed\ISPSubscriber.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\openclosed\InternetSessionHistory.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\interfacesegregation\service\OrderPersistenceService.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\openclosed\Subscriber.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\interfacesegregation\service\UserPersistenceService.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\singleresponsibility\User.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\dependencyinversion\MessagePrinter.java
+C:\Users\lucius\IdeaProjects\DesignPatternJava\src\main\java\com\luciuswong\singleresponsibility\Store.java
